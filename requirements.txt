@@ -1,0 +1,5 @@
+allure-pytest
+pytest
+pytest-rerunfailures
+selenium
+webdriver-manager
